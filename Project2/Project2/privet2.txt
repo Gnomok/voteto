@@ -1,0 +1,5 @@
+Element 0: i = 10, d = 3.140000
+Element 1: i = 10, d = 3.140000
+Element 2: i = 10, d = 3.140000
+Element 3: i = 10, d = 3.140000
+Element 4: i = 10, d = 3.140000
